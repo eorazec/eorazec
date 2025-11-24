@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express">
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma">
 </p>
 
 ### **Front-end**
