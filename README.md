@@ -69,14 +69,6 @@
     src="https://streak-stats.demolab.com?user=eorazec&theme=tokyonight&hide_border=true" 
   />
 
-  <img height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eorazec&theme=tokyonight" 
-  />
-
-  <img height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eorazec&theme=tokyonight" 
-  />
-
 </div>
 
 
