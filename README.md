@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://photo.hakari.fun/uploads/WEBSITE/3f9defee-44982e80-18022026-b7ef4bc8bce4c138069f21068116d26b_1_.jpg" width="100%" alt="Banner">
+  <img src="https://photo.hakari.fun/uploads/WEBSITE/536a1e09-59498d08-18022026-f43e9cb4374f2aef4306f5260de68b0b_1_.jpg" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Razec (eorazec)</h1>
