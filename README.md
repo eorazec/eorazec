@@ -62,8 +62,17 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eorazec&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorazec&layout=compact&theme=tokyonight" />
+
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=eorazec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" 
+  />
+
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorazec&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" 
+  />
+
 </div>
 
 ---
