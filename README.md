@@ -27,7 +27,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=lua">
+  <img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp">
 </p>
@@ -37,17 +37,17 @@
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express">
   <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet">
-   <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mongodb">
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=postgree">
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
 </p>
 
 ### **Front-end**
 <p>
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=nextjs">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs">
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 </p>
 
