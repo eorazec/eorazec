@@ -63,17 +63,16 @@
 
 <div align="center">
 
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=eorazec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" 
+  <img height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eorazec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" 
   />
 
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorazec&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" 
+  <img height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eorazec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
   />
 
 </div>
+
 
 ---
 
