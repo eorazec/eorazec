@@ -64,11 +64,15 @@
 <div align="center">
 
   <img height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eorazec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=eorazec&theme=tokyonight&hide_border=true" 
   />
 
   <img height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eorazec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eorazec&theme=tokyonight" 
+  />
+
+  <img height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eorazec&theme=tokyonight" 
   />
 
 </div>
