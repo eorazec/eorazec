@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/7M1K4nL.png" width="100%" alt="Banner">
+  <img src="https://photo.hakari.fun/uploads/WEBSITE/3f9defee-44982e80-18022026-b7ef4bc8bce4c138069f21068116d26b_1_.jpg
+" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Razec (eorazec)</h1>
@@ -15,7 +16,7 @@
 
 - 🔥 Desenvolvedor focado em **Node.js, APIs REST, WebSockets, bots e sistemas automatizados**
 - 📦 Crio **bibliotecas NPM, bots profissionais, painéis completos, dashboards e sistemas de autenticação**
-- 🛠️ Experiência com **Discord Bots, gateways, segurança, criptografia, automação, proxies e redes**
+- 🛠️ Experiência com **Discord Bots, gateways, segurança, criptografia, automação**
 - 🌐 Atuação também em **front-end**, criando interfaces rápidas e responsivas
 - 🧠 Sempre estudando **arquitetura de software, sistemas distribuídos e DevOps**
 
@@ -27,6 +28,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=lua">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp">
 </p>
@@ -36,13 +38,17 @@
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express">
   <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet">
+   <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=postgree">
 </p>
 
 ### **Front-end**
 <p>
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=nextjs">
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 </p>
 
@@ -52,17 +58,6 @@
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux">
 </p>
-
----
-
-## 🧩 Projetos em Destaque
-
-### 🔹 **Talkky Bot — Node.js Package**
-Biblioteca completa para integração com a plataforma **Talkky**, focada em automação, autenticação e comunicação em tempo real.
-
-🔗 **Repositório:** *(adicione quando publicar)*  
-📦 **NPM:** *(adicione quando publicar)*
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -77,7 +72,7 @@ Biblioteca completa para integração com a plataforma **Talkky**, focada em aut
 ## 📫 Contato
 
 - ✉️ **Email:** raulcrezar@gmail.com  
-- 🧵 **Discord:** `eorazeccc`  
+- 🧵 **Discord:** `eo.razec`  
 - 🐙 **GitHub:** [github.com/eorazec](https://github.com/eorazec)
 
 ---
